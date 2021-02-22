@@ -2,7 +2,7 @@
 This is simple sample
 - obniz
 - mh_z19
-- GrooveLightingSensor
+
 
 # how to use
 ## install modules
